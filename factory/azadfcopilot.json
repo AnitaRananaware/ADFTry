@@ -1,0 +1,9 @@
+{
+	"name": "azadfcopilot",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6ef0f986-bdd6-49e8-bd9a-9faa77069493",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
