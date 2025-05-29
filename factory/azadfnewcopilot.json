@@ -1,0 +1,9 @@
+{
+	"name": "azadfnewcopilot",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3be44fa6-efd5-449b-9e6e-ece4f909348c",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
